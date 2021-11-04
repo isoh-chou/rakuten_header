@@ -1,0 +1,48 @@
+@charset "euc-jp";
+/* CSS Document */
+
+#header{
+    width:100%
+}
+
+#header_main{
+    width:98%
+}
+
+#header_left{
+    float:left;
+    width:60%
+}
+
+#header_right{
+    float: right;
+    width:40%
+}
+
+#header_right_top{
+    float: right;   
+    width:100%
+}
+
+#header_right_middle{
+    float: right;  
+    width:100%
+}
+
+#header_right_menu{
+    float: right;    
+    width:100%
+}
+
+
+#header_bottom{
+    float: left;  
+    width:100%
+}
+
+/* #test_left{
+    float: left;
+}
+#test_right{
+    float: right;
+} */
